@@ -151,8 +151,8 @@ hoyoverse-fanhub/
 
 This is a **fan project** — not affiliated with Hoyoverse. But if you're a fellow Traveler, Trailblazer, Proxy, or Captain…
 
-- 🐛 Found a bug? [Open an issue](https://github.com/nobody-miyabi-suki/hoyoverse-fanhub/issues)
-- 💡 Have a suggestion? [Start a discussion](https://github.com/nobody-miyabi-suki/hoyoverse-fanhub/discussions)
+- 🐛 Found a bug? [Open an issue](https://github.com/nobody-miyabi-suki/miyabi-suki.xyz/issues)
+- 💡 Have a suggestion? [Start a discussion](https://github.com/nobody-miyabi-suki/miyabi-suki.xyz/discussions)
 - 🌟 Love it? Drop a ⭐ on GitHub!
 
 ---
