@@ -49,11 +49,14 @@ Welcome to the **Hoyoverse Fan Hub** — an immersive, fan‑crafted universe de
 ---
 
 ## 🚀 COMING SOON — THE ROADMAP
-✨ PHASE 1 — Launch [██████████] 100%
-🌙 PHASE 2 — Interactive Character Builder [████████░░] 80%
-⭐ PHASE 3 — Real‑time Warp Tracker [██████░░░░] 60%
-🌀 PHASE 4 — Community Theorycrafting [████░░░░░░] 40%
-🌌 PHASE 5 — Full Lore Encyclopedia [██░░░░░░░░] 20%
+
+```
+✨ PHASE 1 — Launch                         [██████████] 100%
+🌙 PHASE 2 — Interactive Character Builder   [████████░░]  80%
+⭐ PHASE 3 — Real‑time Warp Tracker         [██████░░░░]  60%
+🌀 PHASE 4 — Community Theorycrafting       [████░░░░░░]  40%
+🌌 PHASE 5 — Full Lore Encyclopedia         [██░░░░░░░░]  20%
+```
 
 - 🎴 **Character Builder** — Simulate builds, relics, and team comps.
 - 📊 **Warp Simulator** — Test your luck before pulling.
@@ -64,18 +67,71 @@ Welcome to the **Hoyoverse Fan Hub** — an immersive, fan‑crafted universe de
 ---
 
 ## 📁 PROJECT STRUCTURE
-hoyoverse-fanhub/
-├── index.html # Main Hub
-├── /genshin/ # All Genshin pages
-├── /starrail/ # All Star Rail pages
-├── /zzz/ # All ZZZ pages
-├── /honkai3rd/ # All Honkai Impact 3rd pages
-├── /css/ # Modular stylesheets
-├── /js/ # Shared JavaScript
-├── /img/ # Banners, characters, icons
-├── /data/ # JSON character data
-└── README.md # You are here ✨
 
+```
+hoyoverse-fanhub/
+├── index.html                 # Main Hub
+├── genshin/                   # All Genshin pages
+│   ├── index.html
+│   ├── characters.html
+│   ├── character.html
+│   ├── map.html
+│   ├── story.html
+│   ├── weapons.html
+│   └── artifacts.html
+├── starrail/                  # All Star Rail pages
+│   ├── index.html
+│   ├── characters.html
+│   ├── character.html
+│   ├── map.html
+│   ├── paths.html
+│   ├── relics.html
+│   └── story.html
+├── zzz/                       # All ZZZ pages
+│   ├── index.html
+│   ├── characters.html
+│   ├── agent.html
+│   ├── bangboo.html
+│   ├── hollow-zero-live.html
+│   ├── map.html
+│   ├── story.html
+│   ├── ellen-joe.html
+│   └── miyabi.html
+├── honkai3rd/                 # All Honkai Impact 3rd pages
+│   ├── index.html
+│   ├── characters.html
+│   ├── map.html
+│   ├── stigmata.html
+│   ├── story.html
+│   └── weapons.html
+├── css/                       # Modular stylesheets
+│   ├── base.css
+│   ├── home.css
+│   ├── pages.css
+│   ├── character-pages.css
+│   └── starrail.css
+├── js/
+│   └── script.js              # Shared JavaScript
+├── img/                       # Banners, characters, icons
+│   ├── genshin-banner.jpg
+│   ├── honkai-banner.png
+│   ├── zzz-banner.jpg
+│   ├── honkai3rd-banner.jpg
+│   ├── miyabi.png
+│   ├── ellen.jpg
+│   ├── zhu-yuan.jpg
+│   ├── kafka-1.jpg
+│   ├── characters/
+│   ├── bangboo/
+│   ├── genshin/
+│   └── icons/
+├── data/                      # JSON character data
+│   ├── agents.json
+│   ├── characters.json
+│   └── genshin-characters.json
+├── CNAME                      # Custom domain
+└── README.md                  # You are here ✨
+```
 
 ---
 
